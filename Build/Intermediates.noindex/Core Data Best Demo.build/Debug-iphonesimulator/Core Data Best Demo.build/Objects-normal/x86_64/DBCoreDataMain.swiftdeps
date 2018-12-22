@@ -1,0 +1,458 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DBCoreDataMain"
+provides-nominal:
+- "19Core_Data_Best_Demo06DBCoreB4MainC"
+provides-member:
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "-"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- "BooleanLiteralType"
+- "Bundle"
+- "CastingPrecedence"
+- "DBCoreDataMain"
+- "Dictionary"
+- "FileManager"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "NSError"
+- "NSInferMappingModelAutomaticallyOption"
+- "NSLocalizedDescriptionKey"
+- "NSLocalizedFailureReasonErrorKey"
+- "NSLog"
+- "NSManagedObjectContext"
+- "NSManagedObjectModel"
+- "NSMigratePersistentStoresAutomaticallyOption"
+- "NSNumber"
+- "NSPersistentStoreCoordinator"
+- "NSSQLiteStoreType"
+- "NSUnderlyingErrorKey"
+- "String"
+- "StringLiteralType"
+- "URL"
+- "abort"
+- "print"
+depends-member:
+- ["Sa", "count"]
+- ["Sa", "subscript"]
+- ["s13ArrayProtocolP", "count"]
+- ["s13ArrayProtocolP", "subscript"]
+- ["SK", "count"]
+- ["SK", "init"]
+- ["SK", "init"]
+- ["SK", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["So8NSBundleC", "init"]
+- ["So8NSBundleC", "url"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "addPersistentStore"]
+- ["s7CVarArgP", "count"]
+- ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "hasChanges"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "persistentStoreCoordinator"]
+- !private ["s7CVarArgP", "save"]
+- ["s7CVarArgP", "subscript"]
+- ["s7CVarArgP", "url"]
+- ["s7CVarArgP", "urls"]
+- ["s7CVarArgP", "userInfo"]
+- ["Sl", "count"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["Sl", "subscript"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "addPersistentStore"]
+- ["s28CustomDebugStringConvertibleP", "appendingPathComponent"]
+- ["s28CustomDebugStringConvertibleP", "count"]
+- ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "hasChanges"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "persistentStoreCoordinator"]
+- !private ["s28CustomDebugStringConvertibleP", "save"]
+- ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "url"]
+- ["s28CustomDebugStringConvertibleP", "urls"]
+- ["s28CustomDebugStringConvertibleP", "userInfo"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "appendingPathComponent"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "addPersistentStore"]
+- ["s23CustomStringConvertibleP", "appendingPathComponent"]
+- ["s23CustomStringConvertibleP", "count"]
+- ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "hasChanges"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "persistentStoreCoordinator"]
+- !private ["s23CustomStringConvertibleP", "save"]
+- ["s23CustomStringConvertibleP", "subscript"]
+- ["s23CustomStringConvertibleP", "url"]
+- ["s23CustomStringConvertibleP", "urls"]
+- ["s23CustomStringConvertibleP", "userInfo"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "AnyObject"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "Bool"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "Bundle"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "DBCoreDataMain"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "FileManager"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSError"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSInferMappingModelAutomaticallyOption"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSLocalizedDescriptionKey"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSLocalizedFailureReasonErrorKey"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSLog"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSManagedObjectContext"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSManagedObjectModel"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSMigratePersistentStoresAutomaticallyOption"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSNumber"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSPersistentStoreCoordinator"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSSQLiteStoreType"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "NSUnderlyingErrorKey"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "String"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "URL"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "abort"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "applicationDocumentsDirectory"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "init"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "managedObjectContext"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "managedObjectModel"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "persistentStoreCoordinator"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "print"]
+- ["19Core_Data_Best_Demo06DBCoreB4MainC", "saveContext"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- ["Se", "appendingPathComponent"]
+- ["Se", "count"]
+- ["Se", "init"]
+- ["Se", "init"]
+- ["Se", "subscript"]
+- ["SD", "init"]
+- ["SD", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- ["SE", "appendingPathComponent"]
+- ["SE", "count"]
+- ["SE", "init"]
+- ["SE", "init"]
+- ["SE", "subscript"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- ["SQ", "addPersistentStore"]
+- ["SQ", "appendingPathComponent"]
+- ["SQ", "count"]
+- ["SQ", "default"]
+- ["SQ", "documentDirectory"]
+- !private ["SQ", "hasChanges"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- ["SQ", "mainQueueConcurrencyType"]
+- ["SQ", "persistentStoreCoordinator"]
+- !private ["SQ", "save"]
+- ["SQ", "subscript"]
+- ["SQ", "url"]
+- ["SQ", "urls"]
+- ["SQ", "userDomainMask"]
+- ["SQ", "userInfo"]
+- ["s5ErrorP", "init"]
+- ["s5ErrorP", "userInfo"]
+- ["s25ExpressibleByArrayLiteralP", "count"]
+- ["s25ExpressibleByArrayLiteralP", "subscript"]
+- ["s25ExpressibleByArrayLiteralP", "userDomainMask"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s27ExpressibleByBooleanLiteralP", "init"]
+- ["s30ExpressibleByDictionaryLiteralP", "init"]
+- ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s25ExpressibleByFloatLiteralP", "init"]
+- ["s27ExpressibleByIntegerLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["So13NSFileManagerC", "default"]
+- ["So13NSFileManagerC", "urls"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- ["SH", "addPersistentStore"]
+- ["SH", "appendingPathComponent"]
+- ["SH", "count"]
+- ["SH", "default"]
+- ["SH", "documentDirectory"]
+- !private ["SH", "hasChanges"]
+- ["SH", "init"]
+- ["SH", "init"]
+- ["SH", "mainQueueConcurrencyType"]
+- ["SH", "persistentStoreCoordinator"]
+- !private ["SH", "save"]
+- ["SH", "subscript"]
+- ["SH", "url"]
+- ["SH", "urls"]
+- ["SH", "userInfo"]
+- ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["SM", "count"]
+- ["SM", "subscript"]
+- !private ["So8NSCodingP", "hasChanges"]
+- ["So8NSCodingP", "init"]
+- ["So8NSCodingP", "persistentStoreCoordinator"]
+- !private ["So8NSCodingP", "save"]
+- ["So8NSCodingP", "userInfo"]
+- ["So9NSCopyingP", "init"]
+- ["So9NSCopyingP", "userInfo"]
+- ["So7NSErrorC", "init"]
+- ["So7NSErrorC", "userInfo"]
+- ["So17NSFastEnumerationP", "init"]
+- ["So20NSFetchRequestResultP", "init"]
+- ["So9NSLockingP", "addPersistentStore"]
+- !private ["So9NSLockingP", "hasChanges"]
+- ["So9NSLockingP", "init"]
+- ["So9NSLockingP", "persistentStoreCoordinator"]
+- !private ["So9NSLockingP", "save"]
+- !private ["So22NSManagedObjectContextC", "hasChanges"]
+- ["So22NSManagedObjectContextC", "init"]
+- ["So22NSManagedObjectContextC", "persistentStoreCoordinator"]
+- !private ["So22NSManagedObjectContextC", "save"]
+- ["So37NSManagedObjectContextConcurrencyTypeV", "mainQueueConcurrencyType"]
+- ["So20NSManagedObjectModelC", "init"]
+- ["So8NSNumberC", "init"]
+- ["So8NSObjectC", "addPersistentStore"]
+- ["So8NSObjectC", "default"]
+- !private ["So8NSObjectC", "hasChanges"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "persistentStoreCoordinator"]
+- !private ["So8NSObjectC", "save"]
+- ["So8NSObjectC", "url"]
+- ["So8NSObjectC", "urls"]
+- ["So8NSObjectC", "userInfo"]
+- ["So8NSObjectP", "addPersistentStore"]
+- ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "hasChanges"]
+- ["So8NSObjectP", "init"]
+- ["So8NSObjectP", "persistentStoreCoordinator"]
+- !private ["So8NSObjectP", "save"]
+- ["So8NSObjectP", "url"]
+- ["So8NSObjectP", "urls"]
+- ["So8NSObjectP", "userInfo"]
+- ["So28NSPersistentStoreCoordinatorC", "addPersistentStore"]
+- ["So28NSPersistentStoreCoordinatorC", "init"]
+- ["So14NSSecureCodingP", "init"]
+- ["So14NSSecureCodingP", "userInfo"]
+- ["So7NSValueC", "init"]
+- ["s9OptionSetP", "userDomainMask"]
+- ["Sk", "count"]
+- ["Sk", "subscript"]
+- ["Sm", "count"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["Sm", "subscript"]
+- ["SY", "documentDirectory"]
+- ["SY", "mainQueueConcurrencyType"]
+- ["SY", "userDomainMask"]
+- ["10Foundation20ReferenceConvertibleP", "appendingPathComponent"]
+- ["So21NSSearchPathDirectoryV", "documentDirectory"]
+- ["So22NSSearchPathDomainMaskV", "userDomainMask"]
+- ["ST", "count"]
+- ["ST", "init"]
+- ["ST", "init"]
+- ["ST", "subscript"]
+- ["s10SetAlgebraP", "userDomainMask"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["10Foundation3URLV", "appendingPathComponent"]
+- ["9Alamofire14URLConvertibleP", "appendingPathComponent"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- ["9Alamofire14URLConvertibleP", "init"]
+- ["s24_DestructorSafeContainerP", "count"]
+- ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "appendingPathComponent"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "addPersistentStore"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "hasChanges"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "persistentStoreCoordinator"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "save"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "url"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "urls"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "userInfo"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- ["s21_ObjectiveCBridgeableP", "appendingPathComponent"]
+- ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "Sa"
+- "s13ArrayProtocolP"
+- "SK"
+- !private "Sb"
+- "So8NSBundleC"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "19Core_Data_Best_Demo06DBCoreB4MainC"
+- "Se"
+- "SD"
+- "SE"
+- "SQ"
+- "s5ErrorP"
+- "s25ExpressibleByArrayLiteralP"
+- "s27ExpressibleByBooleanLiteralP"
+- "s30ExpressibleByDictionaryLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s25ExpressibleByFloatLiteralP"
+- "s27ExpressibleByIntegerLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "So13NSFileManagerC"
+- "SH"
+- "10SwiftyJSON17JSONSubscriptTypeP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "SM"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So7NSErrorC"
+- "So17NSFastEnumerationP"
+- "So20NSFetchRequestResultP"
+- "So9NSLockingP"
+- "So22NSManagedObjectContextC"
+- "So37NSManagedObjectContextConcurrencyTypeV"
+- "So20NSManagedObjectModelC"
+- "So8NSNumberC"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "So28NSPersistentStoreCoordinatorC"
+- "So14NSSecureCodingP"
+- "So7NSValueC"
+- "s9OptionSetP"
+- "Sk"
+- "Sm"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "So21NSSearchPathDirectoryV"
+- "So22NSSearchPathDomainMaskV"
+- "ST"
+- "s10SetAlgebraP"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "10Foundation3URLV"
+- "9Alamofire14URLConvertibleP"
+- "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/Alamofire.swiftmodule/x86_64.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-umbrella.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+ForceDecode.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSImage+WebCache.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSButton+WebCache.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCache.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageFrame.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCacheConfig.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageTransition.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDAnimatedImageRep.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageGIFCoder.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageImageIOCoder.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoder.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCodersManager.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCoderHelper.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+- "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules/module.modulemap"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Users/ESENSE/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "e98a8a7c2031f2e90fa17b264623614a"

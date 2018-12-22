@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "3bf9a1d13ae2054d6735c4e52b04240b"
+build_time: [1545473345, 953047000]
+inputs:
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1545043663, 0]

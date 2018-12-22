@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "bab19525f64e65887524cfd9bf6b5e16"
+build_time: [1545473359, 810550000]
+inputs:
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Core Data Best Demo/ViewControllers/ViewController.swift": [1545226050, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Core Data Best Demo/CoreData Classes/DBCoreDataMain.swift": [1545224348, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Core Data Best Demo/Helper Classes/DBCoreDataHelper.swift": [1545225874, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Core Data Best Demo/Custom Classes/TableViewCell.swift": [1545222782, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Core Data Best Demo/Helper Classes/WebService.swift": [1545223595, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Core Data Best Demo/ModelClasses/Song.swift": [1545044816, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Core Data Best Demo/Appdelegate/AppDelegate.swift": [1545224353, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Intermediates.noindex/Core Data Best Demo.build/Debug-iphonesimulator/Core Data Best Demo.build/DerivedSources/CoreDataGenerated/Core_Data_Best_Demo/SongTable+CoreDataClass.swift": [1545473359, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Intermediates.noindex/Core Data Best Demo.build/Debug-iphonesimulator/Core Data Best Demo.build/DerivedSources/CoreDataGenerated/Core_Data_Best_Demo/SongTable+CoreDataProperties.swift": [1545473359, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Build/Intermediates.noindex/Core Data Best Demo.build/Debug-iphonesimulator/Core Data Best Demo.build/DerivedSources/CoreDataGenerated/Core_Data_Best_Demo/Core_Data_Best_Demo+CoreDataModel.swift": [1545473359, 0]

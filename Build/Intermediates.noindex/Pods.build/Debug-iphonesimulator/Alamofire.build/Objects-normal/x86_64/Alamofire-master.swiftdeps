@@ -1,0 +1,21 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6aff56a4a98b2b76b4050ac2f42308b5"
+build_time: [1545473345, 953056000]
+inputs:
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/AFError.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/Alamofire.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/MultipartFormData.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/Notifications.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/ParameterEncoding.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/Request.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/Response.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/ResponseSerialization.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/Result.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/ServerTrustPolicy.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/SessionDelegate.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/SessionManager.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/TaskDelegate.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/Timeline.swift": [1545043600, 0]
+  "/Users/ESENSE/Downloads/Core Data Best Demo/Pods/Alamofire/Source/Validation.swift": [1545043600, 0]
